@@ -1,1 +1,1 @@
-![Dambarioid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dambarioid&show_icons=true&bg_color=00000000)
+![Dambarioid's GitHub stats](https://github-readme-stats.vercel.app/api?username=azlamire&show_icons=true&bg_color=00000000)
