@@ -42,6 +42,7 @@
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![QubesOS](https://img.shields.io/badge/QbesOS-3874D8?logo=qubesos&logoColor=white)](#)
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](#)
 
 ![Dambarioid's GitHub stats](https://github-readme-stats.vercel.app/api?username=azlamire&show_icons=true&bg_color=00000000)
 
