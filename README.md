@@ -1,4 +1,4 @@
-### Languages
+q### Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
@@ -60,6 +60,8 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+| <a href="https://github.com/azlamire/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=azlamire&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/azlamire/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlamire&layout=compact&theme=synthwave&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
