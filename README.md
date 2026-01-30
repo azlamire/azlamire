@@ -17,7 +17,6 @@
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](https://nixos.org/)
 
 ---
-
-|<p align="center"> <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" /> </p> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azlamire&layout=donut) |
+| ![Azlamire's GitHub stats](https://github-readme-stats.vercel.app/api?username=azlamire&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azlamire&layout=donut) |
 |--------- | ------------- |
 
