@@ -59,7 +59,7 @@
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](#)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azlamire&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azlamire&layout=donut)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 ![Dambarioid's GitHub stats](https://github-readme-stats.vercel.app/api?username=azlamire&show_icons=true&bg_color=00000000)
