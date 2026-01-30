@@ -59,6 +59,8 @@
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](#)
 
 ---
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azlamire&layout=donut) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azlamire&layout=donut) |
 
