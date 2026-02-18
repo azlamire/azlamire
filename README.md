@@ -17,6 +17,4 @@
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](https://nixos.org/)
 
 ---
-| ![Azlamire's GitHub stats](https://github-readme-stats.vercel.app/api?username=azlamire&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azlamire&layout=donut) |
-|--------- | ------------- |
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/azlamire?cardType=level-alternate&theme=synthwave&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
