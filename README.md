@@ -18,4 +18,6 @@
 
 ---
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/azlamire?cardType=level-alternate&theme=synthwave&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+![TESTING](https://pixel-profile.vercel.app/api/github-stats?username=azlamire&screen_effect=true&theme=rainbow)
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=azlamire)](https://github.com/anuraghazra/github-readme-stats)
