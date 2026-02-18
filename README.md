@@ -17,10 +17,7 @@
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](https://nixos.org/)
 |  |   |
 |--| --|
-|![Most Used Languages](https://raw.githubusercontent.com/azlamire/github-stats-transparent/output/generated/languages.svg)
-| <p align="center">
-    <img src="https://raw.githubusercontent.com/azlamire/azlamire/main/lang_testing.svg" />
-</p> |
+| ![Most Used Languages](https://raw.githubusercontent.com/azlamire/github-stats-transparent/output/generated/languages.svg) | <p align="center"> <img src="https://raw.githubusercontent.com/azlamire/azlamire/main/lang_testing.svg" /> </p> |
 
 
 
