@@ -17,7 +17,7 @@
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](https://nixos.org/)
 |  |   |
 |--| --|
-| [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/azlamire?cardType=level-alternate&theme=synthwave&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card) | <p align="center"> <img src="https://raw.githubusercontent.com/azlamire/azlamire/main/lang_testing.svg" /> </p> |
+| [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/azlamire?cardType=level-alternate&theme=default&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card) | <p align="center"> <img src="https://raw.githubusercontent.com/azlamire/azlamire/main/lang_testing.svg" /> </p> |
 
 
 
