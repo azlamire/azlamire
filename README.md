@@ -21,8 +21,8 @@
 ![TESTING](https://pixel-profile.vercel.app/api/github-stats?username=azlamire&screen_effect=true&theme=rainbow)
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/username/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/username/repository_name/main/output/stats_commits.svg">
+  <source srcset="https://raw.githubusercontent.com/azlamire/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/azlamire/repository_name/main/output/stats_commits.svg">
 </picture>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=azlamire)](https://github.com/anuraghazra/github-readme-stats)
