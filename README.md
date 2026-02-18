@@ -18,11 +18,7 @@
 
 ---
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/azlamire?cardType=level-alternate&theme=synthwave&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-![TESTING](https://pixel-profile.vercel.app/api/github-stats?username=azlamire&screen_effect=true&theme=rainbow)
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/azlamire/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/azlamire/repository_name/main/output/stats_commits.svg">
-</picture>
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=azlamire)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/azlamire/azlamire/main/README.md" />
+</p>
