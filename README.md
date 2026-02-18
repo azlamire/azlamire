@@ -18,3 +18,4 @@
 
 ---
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/azlamire?cardType=level-alternate&theme=synthwave&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
