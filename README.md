@@ -29,5 +29,4 @@
     <img src="https://raw.githubusercontent.com/azlamire/azlamire/main/lang_testing.svg" />
 </p>
 
-https://dev.to/iammastercraft/build-your-own-github-profile-widgets-from-scratch-2e3h#1-how-github-profile-widgets-work
 ![](https://komarev.com/ghpvc/?username=azlamire)
