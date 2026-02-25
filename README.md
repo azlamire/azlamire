@@ -29,4 +29,7 @@
     <img src="https://raw.githubusercontent.com/azlamire/azlamire/main/lang_testing.svg" />
 </p>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/wwoeit/wwoeit/main/outcomes/lsg.gif" />
+</p>
 ![](https://komarev.com/ghpvc/?username=azlamire)
